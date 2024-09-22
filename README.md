@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NeerajSalve
 - 👀 I’m interested in Developing a websites
-- 🌱 I’m currently learning in TY Diploma in Computer Technology Branch
-- 💞️ I’m looking to collaborate on 
+- CSe(AIML) Student From Saraswati college of engineering, Kharghar, Navi mumbai.
 - 📫 You Can Reach me from E-Mail: neerajsalveeng@gmail.com
 
 <!---
